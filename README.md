@@ -45,7 +45,11 @@ to help students and makers start using AI effectively in embedded systems.
 
 ### Blink program by Claude code with Wio terminal (usual ways of AI in coding )
 
-![Demo 1](Media/Demo1.mp4)
+ <!-- ![Demo 1](Media/Demo1.mp4) -->
+
+
+https://github.com/user-attachments/assets/c09cbbbe-7144-4587-819f-c27154bee25e
+
 
 
 
@@ -54,7 +58,13 @@ to help students and makers start using AI effectively in embedded systems.
 ![alt text](Media/agument-code-vscode.png)
 A VS code extension needed to be installed for this demo, which is by Augment Ai, and sign in with your own account required.
 
-![Demo 2](Media/Agent-Blink-En.mp4)
+
+<!-- ![Demo 2](Media/Agent-Blink-En.mp4)  -->
+
+
+https://github.com/user-attachments/assets/83d8809c-7ceb-436f-959b-8d3d662deaf4
+
+
 
 **Prompt:**
 ```
@@ -65,12 +75,25 @@ Please implement WIo Terminal Blink acoring to @rule_en.md requirements
 
 ### Here is another demo with Augment using chinese language
 
-![Demo 3](Media/Agent-Demo.mp4)
+
+<!--![Demo 3](Media/Agent-Demo.mp4)  -->
+
+
+https://github.com/user-attachments/assets/a7796f18-2855-4ae2-bb21-5e47574ffda4
+
+
 
 
 ### here is a simple snake game on wio terminal built using agentic AI workflow
 
-![Snake game on wio terminal](Media/Simple_snake-game.mp4)
+
+<!-- ![Snake game on wio terminal](Media/Simple_snake-game.mp4) -->
+
+
+https://github.com/user-attachments/assets/b67d5646-4e00-4aa1-8898-ebcedfede14b
+
+
+
 
 **Prompt:**
 ```
